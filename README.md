@@ -2,4 +2,4 @@
 
 Un desafío propuesto por el Programa ONE de Alura.
 
-![alt text](./assets/amigo-secreto-browser.jpg)
+(./assets/amigo-secreto-browser.jpg)
